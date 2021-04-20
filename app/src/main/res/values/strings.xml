@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MonApplication</string>
+    <string-array name="TypeForfait">
+    <item></item>
+    <item>Nuitée hôtel</item>
+    <item>Forfait kilomètre</item>
+    <item>Repas restaurant</item>
+    <item>Forfait étape</item>
+    </string-array>
+</resources>
